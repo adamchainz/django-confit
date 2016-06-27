@@ -33,7 +33,7 @@ DESCRIPTION = 'Django settings loaders and validators, with local flavour.'
 VERSION = open(os.path.join(here, 'VERSION')).read().strip()
 AUTHOR = u'Benoît Bryon'
 EMAIL = 'benoit@marmelune.net'
-URL = 'https://django-confit.readthedocs.org'
+URL = 'https://django-confit.readthedocs.io'
 CLASSIFIERS = [
     "Development Status :: 3 - Alpha",
     "License :: OSI Approved :: BSD License",

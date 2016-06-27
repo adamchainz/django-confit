@@ -28,8 +28,8 @@ Here is the list of configuration schemas implemented as part of
    there is only one valid schema for your app, and it lives within your app).
 
 .. _`Django`: https://docs.djangoproject.com/en/stable/ref/settings/
-.. _`django-debug-toolbar`: http://django-debug-toolbar.readthedocs.org/en/latest/configuration.html
+.. _`django-debug-toolbar`: https://django-debug-toolbar.readthedocs.io/en/latest/configuration.html
 .. _`django-nose`: https://pypi.python.org/pypi/django-nose/
 .. _`django-pimpmytheme`: https://pypi.python.org/pypi/django-pimpmytheme/
-.. _`django-pipeline`: http://django-pipeline.readthedocs.org/en/latest/configuration.html
-.. _`raven`: http://raven.readthedocs.org/en/latest/integrations/django.html
+.. _`django-pipeline`: https://django-pipeline.readthedocs.io/en/latest/configuration.html
+.. _`raven`: https://raven.readthedocs.io/en/latest/integrations/django.html

@@ -111,7 +111,7 @@ concepts, then you can:
 Ressources
 **********
 
-* Documentation: https://django-confit.readthedocs.org
+* Documentation: https://django-confit.readthedocs.io
 * PyPI page: https://pypi.python.org/pypi/django-confit/
 * Code repository: https://github.com/benoitbryon/django-confit
 * Bugtracker: https://github.com/benoitbryon/django-confit/issues
